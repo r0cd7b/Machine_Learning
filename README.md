@@ -1,2 +1,2 @@
 # neural_nets_with_keras
-It is a repository that has studied and organized machine learning.
+Build and train deep neural network models including perceptrons and MLPs using Tensorflow Keras.
